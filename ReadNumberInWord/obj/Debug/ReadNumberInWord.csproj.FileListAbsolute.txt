@@ -1,0 +1,9 @@
+D:\BasicProgramming\Chapter 2\ReadNumberInWord\ReadNumberInWord\bin\Debug\ReadNumberInWord.exe.config
+D:\BasicProgramming\Chapter 2\ReadNumberInWord\ReadNumberInWord\bin\Debug\ReadNumberInWord.exe
+D:\BasicProgramming\Chapter 2\ReadNumberInWord\ReadNumberInWord\bin\Debug\ReadNumberInWord.pdb
+D:\BasicProgramming\Chapter 2\ReadNumberInWord\ReadNumberInWord\obj\Debug\ReadNumberInWord.csprojAssemblyReference.cache
+D:\BasicProgramming\Chapter 2\ReadNumberInWord\ReadNumberInWord\obj\Debug\ReadNumberInWord.Form1.resources
+D:\BasicProgramming\Chapter 2\ReadNumberInWord\ReadNumberInWord\obj\Debug\ReadNumberInWord.Properties.Resources.resources
+D:\BasicProgramming\Chapter 2\ReadNumberInWord\ReadNumberInWord\obj\Debug\ReadNumberInWord.csproj.GenerateResource.cache
+D:\BasicProgramming\Chapter 2\ReadNumberInWord\ReadNumberInWord\obj\Debug\ReadNumberInWord.exe
+D:\BasicProgramming\Chapter 2\ReadNumberInWord\ReadNumberInWord\obj\Debug\ReadNumberInWord.pdb
